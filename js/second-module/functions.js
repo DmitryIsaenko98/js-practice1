@@ -94,3 +94,36 @@
 // console.log(filterNumbers([2, 3, 6, 7, 1, 3, 21, 6, 4], 1, 3, 5, 7, 9, 2, 4, 10));
 // console.log(filterNumbers([2, 30, 6, 7, 10, 3, 21, 6, 4], 10, 30, 4));
 // console.log(filterNumbers([658, 47, 39, 26], 17, 71, 658, 274));
+
+// const keys = [];
+// const values = [];
+// const advert = {
+//   service: 'apt',
+// };
+// const apartment = Object.create(advert);
+// apartment.descr = 'Spacious apartment in the city center';
+// apartment.rating = 4;
+// apartment.price = 2153;
+
+// for (const key in apartment) {
+//   // Change code below this line
+//   if (apartment.hasOwnProperty(key)) {
+//     console.log(key);
+//   }
+//   keys.push(key);
+//   values.push(apartment[key]);
+
+//   // Change code above this line
+// }
+
+// function greet(name) {
+//   console.log(`Добро пожаловать ${name}.`);
+// }
+
+// // Функция высшего порядка
+// function registerGuest(name, callback) {
+//   console.log(`Регистрируем гостя ${name}.`);
+//   callback(name);
+// }
+
+// registerGuest('Манго', greet);

@@ -8,7 +8,7 @@
 // console.log(shouldRenew);
 
 //Prompt
-let quantity = prompt('Add your quantity');
-quantity = Number(quantity);
-console.log(quantity);
-console.log(typeof quantity);
+// let quantity = prompt('Add your quantity');
+// quantity = Number(quantity);
+// console.log(quantity);
+// console.log(typeof quantity);
