@@ -102,7 +102,7 @@
 //
 //
 //
-// let totalSpent = 10000;
+// let totalSpent = 1000;
 // let payment = 500;
 // let discount = 0;
 
