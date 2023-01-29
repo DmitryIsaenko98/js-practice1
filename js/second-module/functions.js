@@ -415,3 +415,27 @@
 // mango.changepassword(458322886);
 
 // console.log(mango);
+// const players = [
+//   { name: 'Mango', playtime: 1270, gamesPlayed: 4 },
+//   { name: 'Poly', playtime: 469, gamesPlayed: 2 },
+//   { name: 'Ajax', playtime: 690, gamesPlayed: 3 },
+//   { name: 'Kiwi', playtime: 241, gamesPlayed: 1 },
+// ];
+// // Change code below this line
+
+// const totalAveragePlaytimePerGame = players.reduce((total, player) => {
+//   return total.playtime + player.playtime;
+// }, 0);
+
+// console.log(totalAveragePlaytimePerGame);
+
+// const doMath = function (a, b, callback) {
+//   const result = callback(a, b);
+//   console.log(result);
+// };
+
+// const add = function (x, y) {
+//   return x + y;
+// };
+
+// doMath(6, 9, add);
